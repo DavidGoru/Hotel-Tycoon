@@ -1,0 +1,305 @@
+Language: Spanish
+Nueva partida
+Comenzar
+Cargar partida
+Cargando...
+Salir
+Construcción
+Día
+Cerrar hotel
+Abrir hotel
+Huéspedes y habitaciones
+Huéspedes
+habitación
+Estará
+días
+Dará
+El huésped está muy feliz
+El huésped está un poco enfadado
+El huésped está enfadado
+El huésped está muy enfadado
+Nueva habitación
+Habitación
+no área
+Crear área
+Cancelar
+Eliminar área
+objectos
+noche
+Pared
+Puerta
+Puerta con letrero
+Puerta de cristal
+Ventana
+Pared básica
+Pared verde claro
+Pared rosa crema
+Pared zebra
+Pared de ladrillos
+Pared de ladrillos negros
+Pared de baño
+Tierra
+Césped
+Madera
+Parqué
+Mármol
+Cemento
+Baldosas
+Piedra
+Suelo de baldosas
+Moqueta azul
+Moqueta roja
+Moqueta verde
+Moqueta gris
+Contenedor
+Tabla de planchar
+Recepción
+Cesto de sábanas
+Estantería de sábanas
+Sofá
+Almacén de bebidas
+Almacén de comida
+Máquina expendedora
+Lavadora
+Cubo
+Cocina
+Lavaplatos
+Nevera
+Barra de restaurante
+Mesa grande
+Mesa pequeña
+Cama
+Mini nevera
+Mesita de noche
+Retrete
+Toalla
+Ducha
+Lavabo
+Armario
+Banco
+Valla
+Esquina de valla
+Cubo exterior
+Farola
+Árbol
+Lámpara
+Lámpara de techo
+Planta
+Calabaza de Halloween
+Luces de navidad
+Árbol de navidad
+Regalos de navidad
+Certificado de hotel
+Cuadro
+Papelera
+Habitaciones
+Trabajadores pagados
+Invitado
+salío
+sin cama
+sin retrete
+sin ducha
+sin comida
+sin mesas
+sin bebidas
+sin cubos
+No hay habitaciones disponibles
+Guardado
+Pared de cuadrados
+Pared verde
+Empleados y suministros
+Empleados
+Suministros
+Contratar recepcionista
+día
+Lista
+recepcionistas
+Contratar transportista
+transportistas
+Contratar cocinero
+cocineros
+Contratar limpiador
+limpiadores
+nivel
+Volver
+Despedir
+Nivel
+Ascender
+Comprar caja de comida
+Comprar caja de bebidas
+Cantidad de suministros de bebida
+Cantidad de suministros de comida
+Opciones
+Ajustes
+Controles
+Créditos
+Salir
+MÚSICA
+SONIDOS
+Icono dinero
+Guardar
+Idioma
+Mover cámara: W/A/S/D
+Rotar cámara: Q/E
+Rotar objecto: R
+Guardar juego: CTRL + S
+Cancelar/volver: ESC
+Abrir/cerrar tutorial: T
+Cambiar velocidad: 1/2/3/Espacio
+Mantén pulsado shift para eliminar varias paredes seguidas
+Creado por Avr Games
+Juego programado por David Gómez
+Música y sonidos por Evan Boyerman
+Arte por Brenda Mendez, Thomas Jungclaus y Emil Eldstål
+Producido por Juani Dorta
+Canción construcción por WNDIGO
+¿ESTÁS SEGURO?
+Progreso sin guardar se perderá
+Salir
+Objetivos
+Hombre de negocios
+Objetivo 2
+Objetivo 3
+Objetivo 4
+Objetivo 5
+Objetivo 6
+Objetivo 7
+Objetivo 8
+Objetivo 9
+Completar
+Objetivo completado
+Contrata por lo menos
+empleados
+Consigue
+invitados
+Crear
+habitaciones
+Alcanza la estrella
+Juega
+días de juego
+Cocina
+comidas
+Limpia
+camas/cubos
+Compra
+cajas de suministros
+Ten
+huéspedes estando dos días
+Normal
+Eliminar paredes
+Eliminar objetos
+Mover objetos
+Esto es una pared. Increíble, ¿eh? :D
+Se abre y se cierra... ¡Como una pared de verdad!
+Una puerta con un letrero del número de habitación
+¡Ala! Puedes ver a través de ella sin abrirla
+Deja a tus huéspedes mirar el exterior... ¡desde el interior!
+Papel de pared
+Papel de pared
+Papel de pared
+Papel de pared
+Papel de pared
+Papel de pared
+Papel de pared
+Papel de pared
+Papel de pared básico
+Un buen suelo para el restaurante o la recepción
+Otro buen suelo
+Lo mejor de lo mejor, el rey de los suelos
+Un suelo resistente para aguantar las cajas más pesadas
+Un suelo barato para el cuarto de baño
+Piedrecitas perfectamente colocadas para guiar a los huéspedes hacia el exterior
+¡Un suelo brillante y limpio!
+Puedes ir descalzo sobre él, ¡perfecto para habitaciones!
+Puedes ir descalzo sobre él, ¡perfecto para habitaciones!
+Puedes ir descalzo sobre él, ¡perfecto para habitaciones!
+Puedes ir descalzo sobre él, ¡perfecto para habitaciones!
+Suelo básico. No esperes que crezca nada aquí
+Para un buen jardín, ¡y no atrae insectos!
+Tus limpiadores lo necesitarán para vaciar los cubos de basura
+Para planchar las sábanas recién lavadas
+Uno por recepcionista para atender a tus futuros huéspedes
+Para guardar las sábanas sucias antes de lavarlas
+¡Viene con 10 sábanas para mantener limpias las camas!
+Un sofá cómodo para descansar después de un duro día
+Para almacenar cajas de refrescos
+Para almacenar cajas de comidas
+Para mantener a tus huéspedes hidratados. Almacena hasta 30 bebidas
+¡Lavará hasta 10 sábanas a la vez! Increíble
+Un cubo de basura para la cocina. Tus cocineros te lo agaradecerán
+Uno por cocinero. Máxima calidad para un hotel de lujo
+Tus cocineros necesitarán uno si quieres mantener las mesas limpias
+Para guardar la comida para tus cocineros. Hasta 50 alimentos
+Para alimentar a tus huéspedes. Mantiene hasta 6 comidas
+Una mesa grande para tus huéspedes. Permite hasta a 8 huéspedes
+Como su nombre indica, una mesa más pequeña que la grande. Permite hasta 2 huéspedes
+Donde tus huéspedes duermen. Recuerda: uno por habitación
+Una mini nevera para uso personal, para una habitación con glamour
+Para colocar al lado de la cama
+Ya sabes para qué. Necesitas uno por habitación
+Un objeto decorativo para el cuarto de baño
+Para que tus huéspedes se mantengan limpios
+¡La higiene es lo primero!
+Tus huéspedes lo usarán para guardar la ropa
+Un buen banco para el exterior
+¡No dejes que tus huéspedes huyan! Para decorar el exterior
+¡Es hora de jugar al Tetris (versión Hotel Tycoon)!
+Para mantener el jardín limpio
+Buena iluminación para atraer a los huéspedes más exquisitos
+Sé el cambio que quieres ver en el mundo. ¡Los necesitamos!
+Añádelo a una habitación y verás tus ingresos crecer
+Luz del cielo. Increíble, ¿a que sí?
+Demuestra a tus huéspedes que tienes buen gusto
+Debería dar miedo, pero eh... ¡feliz Halloween!
+Se encienden y se apagan... ¡Creadas por un genio!
+Esponjoso y grande, ¡como Santa Claus!
+¡El consumismo ha llegado en forma de felicidad!
+Demuestra a tus huéspedes que tienes un certificado de hotel. ¡100% Tycoon!
+Un cuadro increíble the la naturaleza urbanizada
+Mantén las habitaciones limpias
+Yendo a la habitación
+Yendo a dormir
+Yendo al retrete
+Yendo a la ducha
+Yendo a comer
+Yendo a la mesa
+Yendo a por un refresco
+Yendo a tirar la lata
+Getting an event
+Comiendo
+Durmiendo
+En el retrete
+En la ducha
+Modo (guest) no detectado. Por favor reportar
+Listo para trabajar
+Modo (worker) no detectado. Por favor reportar
+Trabajando
+Saliendo del hotel
+Buscanco caja de refrescos
+Buscando caja de comida
+Buscanco caja de refrescos
+Buscando una caja de comida
+Buscando una caja de refrescos
+Transportando una caja de comida
+Transportando una caja de refrescos
+Moviendo refrescos a la mini nevera
+Moviendo refrescos a la máquina expendedora
+Moviendo comida a la nevera
+Buscando comida
+Yendo a limpiar los platos
+Yendo a cocinar
+Cocinando
+Tiene comida
+Yendo al lavaplatos
+Yendo a coger las sábanas
+Yendo a planchar las sábanas
+Yendo a vaciar el cubo de basura
+Yendo a limpiar la basura
+Yendo a limpiar la cama
+Limpiando
+Yendo a guardar las sábaans sucias
+Yendo a lavar las sábanas sucias
+Limpiando las sábanas sucias
+Planchando sábanas
+Yendo al contenedor
+Limpiando la basura
