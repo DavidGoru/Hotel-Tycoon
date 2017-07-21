@@ -303,3 +303,9 @@ Limpiando las sábanas sucias
 Planchando sábanas
 Yendo al contenedor
 Limpiando la basura
+Comida restante
+Platos restantes
+Refrescos restantes
+Sábanas
+Pertenece a la habitación
+Refrescos
