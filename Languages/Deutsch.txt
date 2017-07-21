@@ -303,3 +303,9 @@ Wäscht schmutzige Laken
 Bügelt Laken
 Geht zum Müllcontainer
 Räumt Müll weg
+Remaining food
+Remaining dishes
+Remaining drinks
+Sheets
+This object belongs to room
+Cans
