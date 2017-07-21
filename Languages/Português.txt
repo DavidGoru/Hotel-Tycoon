@@ -303,3 +303,9 @@ Washing the dirty sheets
 Ironing the sheet
 Going to the dumpster
 Cleaning the junk
+Remaining food
+Remaining dishes
+Remaining drinks
+Sheets
+This object belongs to room
+Cans
