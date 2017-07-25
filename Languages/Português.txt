@@ -309,3 +309,5 @@ Remaining drinks
 Sheets
 This object belongs to room
 Cans
+Clone
+Will cost
