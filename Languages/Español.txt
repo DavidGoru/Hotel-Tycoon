@@ -309,3 +309,5 @@ Refrescos restantes
 Sábanas
 Pertenece a la habitación
 Refrescos
+Clonar
+Costará
