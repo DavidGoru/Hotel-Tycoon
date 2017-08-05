@@ -1,4 +1,4 @@
-Language: German
+﻿Language: German
 Neues Spiel
 Start
 Spiel laden
@@ -13,7 +13,7 @@ Gäste
 Zimmer
 Bleibt
 Tage
-Will give
+Bringt
 Der Gast ist sehr glücklich
 Der Gast ist etwas verärgert
 Der Gast ist verärgert
@@ -116,7 +116,7 @@ Liste
 Rezeptionisten
 Träger einstellen
 Träger
-Kock einstellen
+Koch einstellen
 Köche
 Putzkraft einstellen
 Pützkrafte
@@ -303,3 +303,24 @@ Wäscht schmutzige Laken
 Bügelt Laken
 Geht zum Müllcontainer
 Räumt Müll weg
+Remaining food
+Remaining dishes
+Remaining drinks
+Laken
+Das Objekt gehört zu Raum
+Dosen
+Kopieren
+Kostet
+Speisevorrat
+Getränkevorrat
+Welcome to the Hotel Tycoon tutorial! You can go to Options -> Controls to see the list of all the controls of the game. To close the tutorial, just press T or Escape. In this tutorial you'll learn how to set up your hotel to make it run and start earning money. If this tutorial doesn't answer all your questions, you can go to our Itch.io community (https://davidgoru.itch.io/hotel-tycoon/community) and ask anything you want to know.
+So, you want to make an awesome hotel, right? Then, let's start! The first thing you'll need is a reception desk (you'll find it on the Build Mode). It can't be placed above dirt, so first of all build some floor (and walls!). Once you have the structure, select the Reception and place it. You can move it or delete it once is placed. Deleting an object will give you some money back. To start the hotel you won't need more than one reception.
+With the reception, you should build some Sofas and a Vending Machine. Workers without work will go to rest to the sofas, and placing a Vending Machine will let your guests get drinks. Now that you have the reception area, you should start building some rooms, so, click "Next"!
+At the beginning you'll get a few guests per day, so with 3-4 rooms you should be able to run the hotel for some days. To build rooms, just do the same as the reception. To get started, just put a toilet, a shower and a bed. Guests will need drinks (if there isn't a Vending Machine, place Mini fridges in all the rooms), food, a bed, a toilet and a shower. If they can't find these things, they'll leave. You can put a door with label to show which room it is. Be careful, you can only have one guest per room, so just put one bed per room.
+Once you have all objects on the room, you'll need to create the room area. Click on the first icon of the upper right corner, click "Rooms", "New room" and create the area. One room area can't be inside another room area. Every object will be detected automatically, and as more objects the room has, more money will the guests give. Once you have one room, you can clone it to copy all the objects inside the room and place it faster.
+Now that you have the rooms ready, let's build the restaurant and kitchen. You'll need one restaurant bar, maybe 2-3 small tables or one big table, a fridge, a cooker and a dishwasher. That will be enough to run the restaurant. The restaurant bar holds up to 6 meals. You can place a food storage place near the kitchen, so it will be faster to move the food to the fridge.
+If you have the rooms, the reception and the restaurant (and kitchen) done, to be able to get the hotel working the last thing you need is a cleaner's room (so you will be able to clean the rooms and bins). The cleaner's room objects are the Dumpster, Washing Machine, Sheet's basket, Sheet's shelf and the Ironing board. All objects are required to clean the beds and empty the bins. To buy the supplies (drinks and food), go to the upper right corner -> second icon -> supplies. You'll need one food box and one drink to start.
+So, now that you have everything (well done!), you will need people to run the hotel. Click on the workers icon (the second icon in the upper right corner, "Workers") and hire one of every worker. Every worker without tasks will go to a sofa. Cleaners will clean bins and beds; carriers will fill mini fridges, vending machines and freezers; receptionists will give rooms to the guests, and cooks will cook the food for them.
+Congratulations! Everything is running as it should. To receive guests (from 6 AM to 8 PM), press the Open hotel button (lower left corner). As more stars you have, more guests will come and more money will they give. Guests will stay for 1-3 days and will pay a base room price of 25€ per night (unless they get too angry and they leave earlier). To increase the room price, get more stars (with guests leaving happily) or more decoration for the rooms or the hotel. Guests will leave if they don't have the minimum things (toilet, shower, bed, food and drinks). That's everything, you're free!
+Zurück
+Nächster
