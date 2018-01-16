@@ -303,3 +303,24 @@ Limpiando las sábanas sucias
 Planchando sábanas
 Yendo al contenedor
 Limpiando la basura
+Comida restante
+Platos restantes
+Refrescos restantes
+Sábanas
+Pertenece a la habitación
+Refrescos
+Clonar
+Costará
+Caja de comida
+Caja de refrescos
+¡Bienvenido al tutorial de Hotel Tycoon! Para ver los controles puedes ir a opciones -> controles. Para cerrar el tutorial pulsa la tecla T o ESC. Con este tutorial aprenderás a construir tu hotel y generar dinero con él. Si con este tutorial hay cosas que no te quedan claras, puedes ir a la comunidad de itch.io (https://davidgoru.itch.io/hotel-tycoon/community) y preguntar lo que quieras.
+Entonces, ¿quieres construir el hotel de tus sueños? Bien, ¡pues a empezar! Lo primero que necesitarás es una recepción (en el Modo construcción encontrarás todos los objetos). Se puede colocar en cualquier sitio siempre que no sea encima de tierra, por lo que empieza por colocar suelo (¡y paredes!). Una vez tengas la estructura, coloca la recepción. Podrás moverla o eliminarla. Al eliminarla recibirás algo de dinero de vuelta. Para empezar te sobrará con una recepción únicamente.
+Alrededor de la recepción podrías colocar sofás y una máquina expendedora. Trabajadores libres descansarán en los sofás, y los huéspedes podrán comprar refrescos de la máquina expendedora. Ahora que ya tienes el área de la recepción, puedes empezar a construir las habitaciones. ¡Haz click en "Siguiente"!
+Al principio recibirás pocos huéspedes, por lo que con 3-4 habitaciones te sobrará por unos días. Para construir las habitaciones simplemente haz lo mismo que en la recepción. Lo mínimo que ha de tener una habitación es una cama, una ducha y un retrete. Los huéspedes necesitarán también refrescos (si no has colocado una máquina expendedora, coloca una mini nevera en cada habitación). Puedes colocar una puerta con letrero para mostrar el número de habitación. Ten cuidado, solo puede haber un huésped por habitación, por lo que coloca solo una cama.
+Una vez tengas todos los objetos en la habitación, necesitarás crear el área de ésta. Haz click en el primer icono de la parte superior derecha, "Habitaciones", "Nueva habitación" y crea el área. Un área no puede estar dentro de otra. Cada objeto de la habitación se detectará automáticamente. Cuanto más objetos tenga, más dinero generará. Puedes clonar las habitaciones para construir más rápido.
+Ahora que ya tienes las habitaciones, es hora de construir la cocina y el restaurante. Necesitarás una barra de restaurante, una cocina, un lavaplatos, una nevera y 2-3 mesas pequeñas o una grande. La barra de restaurante podrá almacenar hasta 6 platos. Puedes colocar un almacén de comida cerca de tu cocina para mover más rápido la comida a la nevera.
+Si tienes las habitaciones, la recepción y el restaurante (y la cocina) construídos, lo último que te falta es la habitación de los limpiadores (para limpiar las camas y las papeleras). Necesitarás un contenedor, una lavadora, una estantería de sábanas, un cesto de sábanas y una plancha. Todos los objetos son necesarios para limpiar las camas y las papeleras. Para comprar los suministros (comida y bebida) ve al segundo icono en la parte superior derecha -> "Suministros". Necesitarás una caja de cada para comenzar.
+Bueno, ahora que ya tienes todo (¡bien hecho!), necesitarás gente para que el hotel funcione. Haz click en el segundo icono de arriba a la derecha -> "Trabajadores" y contrata uno de cada. Los limpiadores limpiarán las papeleras y las camas, los recepcionistas darán las habitaciones, los transportistas moverán los suministros y los cocineros prepararán la comida para los huéspedes.
+¡Felicidades! Todo debería funcionar bien. Para recibir huéspedes (de 6 de la mañana a 8 de la tarde) haz click en Abrir hotel (abajo a la izquierda). Cuanto más estrellas, más huéspedes vendrán y más dinero darán. Los huéspedes estarán de 1 a 3 días y pagarán un precio base de 25€ por noche (a no ser que se enfaden y salgan antes). Para aumentar los ingresos, consigue más estrellas o coloca más decoración. Los huéspedes se marcharán si no tienen lo mínimo (ducha, retrete, cama, comida y refrescos). Eso es todo, ¡eres libre!
+Anterior
+Siguiente

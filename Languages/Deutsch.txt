@@ -1,4 +1,4 @@
-﻿Language: German
+Language: German
 Neues Spiel
 Start
 Spiel laden
