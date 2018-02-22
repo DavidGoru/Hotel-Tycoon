@@ -1,0 +1,98 @@
+Wall
+Door
+Door with label
+Glass door
+Window
+Default wall
+Light green wall
+Pink cream wall
+Zebra wall
+Brick wall
+Brick wall black
+Bathroom wall
+Dirt
+Grass
+Wood
+Wood
+Marble
+Cement tile
+Tiles
+Stone
+Tiled floor
+Blue carpet
+Red carpet
+Green carpet
+Grey carpet
+Dumpster
+Ironing board
+Reception
+Sheets basket
+Sheets shelf
+Sofa
+Storage
+Vending machine
+Washing machine
+Bin
+Cooker
+Dishwasher
+Freezer
+Restaurant bar
+Big table
+Small table
+Bed
+Mini fridge
+Nightstand
+Toilet
+Towel
+Shower
+Sink
+Wardrobe
+Bench
+Fence
+Corner fence
+Litter bin
+Outdoor light
+Tree
+Light
+Roof light
+Plant
+Jack O' Lantern
+Christmas lights
+Christmas tree
+Christmas gifts
+Hotel certificate
+Picture
+Paper bin
+Squares wall
+Green wall
+Food box
+Drinks box
+Blue wall textured
+Orange wall textured
+Yellow wall
+Bookshelf
+Brochure shelf
+Bush
+Cheap bathtub
+Cheap curtains
+Cheap mirror
+Cheap phone
+Cheap roof light
+Cheap TV
+Cheap wall light
+Double sofa
+Expensive bathtub
+Expensive curtains
+Expensive mirror
+Expensive phone
+Expensive roof light
+Expensive TV
+Expensive wall light
+Kitchen fan
+Kitchen sink
+Kitchen worktop
+Lounger chair
+Outside wall light
+Picnic table
+Pool table
+Table

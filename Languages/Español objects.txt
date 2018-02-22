@@ -1,0 +1,98 @@
+Pared
+Puerta
+Puerta con letrero
+Puerta de cristal
+Ventana
+Pared básica
+Pared verde claro
+Pared rosa crema
+Pared zebra
+Pared de ladrillos
+Pared de ladrillos negros
+Pared de baño
+Tierra
+Césped
+Madera
+Parqué
+Mármol
+Cemento
+Baldosas
+Piedra
+Suelo de baldosas
+Moqueta azul
+Moqueta roja
+Moqueta verde
+Moqueta gris
+Contenedor
+Tabla de planchar
+Recepción
+Cesto de sábanas
+Estantería de sábanas
+Sofá
+Almacén
+Máquina expendedora
+Lavadora
+Cubo
+Cocina
+Lavaplatos
+Nevera
+Barra de restaurante
+Mesa grande
+Mesa pequeña
+Cama
+Mini nevera
+Mesita de noche
+Retrete
+Toalla
+Ducha
+Lavabo
+Armario
+Banco
+Valla
+Esquina de valla
+Cubo exterior
+Farola
+Árbol
+Lámpara
+Lámpara de techo
+Planta
+Calabaza de Halloween
+Luces de navidad
+Árbol de navidad
+Regalos de navidad
+Certificado de hotel
+Cuadro
+Papelera
+Pared de cuadrados
+Pared verde
+Caja de comida
+Caja de refrescos
+Pared azul con textura
+Pared naranja con textura
+Pared amarilla
+Estantería
+Estantería de folletos
+Arbusto
+Bañera barata
+Cortinas baratas
+Espejo barato
+Teléfono barato
+Luz de techo barata
+Televisión barata
+Luz de pared barata
+Sofá doble
+Bañera cara
+Cortinas caras
+Espejo caro
+Teléfono caro
+Luz de techo cara
+Televisión cara
+Luz de pared cara
+Extractor de humos
+Fregadero
+Encimera
+Tumbona
+Luz de pared exterior
+Mesa de picnic
+Mesa de billar
+Mesa

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<getLang xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <language>Français</language>
+  <new_game>New game</new_game>
+  <game_name>Game name...</game_name>
+  <c_day>Day</c_day>
+  <l_day>day</l_day>
+  <obj_name_0>Businessman</obj_name_0>
+  <obj_name_1>The host</obj_name_1>
+  <obj_name_2>Give me a room, please</obj_name_2>
+  <obj_name_3>Five Star Hotel</obj_name_3>
+  <obj_name_4>What time is it?</obj_name_4>
+  <obj_name_5>Quality food</obj_name_5>
+  <obj_name_6>What a mess!</obj_name_6>
+  <obj_name_7>Professional buyer</obj_name_7>
+  <obj_name_8>They want to stay with us!</obj_name_8>
+  <obj_desc_0>Hire at least {0} workers. You'll get {1}{2}. ({3}/{4})</obj_desc_0>
+  <obj_desc_1>Have {0} guests staying in your hotel. You'll get {1}{2}. ({3}/{4})</obj_desc_1>
+  <obj_desc_2>Build {0} rooms. You'll get {1}{2}. ({3}/{4})</obj_desc_2>
+  <obj_desc_3>Make your hotel be {0}-Star rated. You'll get {1}{2}. ({3}/{4})</obj_desc_3>
+  <obj_desc_4>Play Hotel Tycoon at least {0} in-game days. You'll get {1}{2}. ({3}/{4})</obj_desc_4>
+  <obj_desc_5>Make your cooks cook at least {0} meals. You'll get {1}{2}. ({3}/{4})</obj_desc_5>
+  <obj_desc_6>Make your cleaners clean {0} beds. You'll get {1}{2}. ({3}/{4})</obj_desc_6>
+  <obj_desc_7>Buy {0} supply boxes. You'll get {1}{2}. ({3}/{4})</obj_desc_7>
+  <obj_desc_8>Have {0} guests staying at least two nights. You'll get {1}{2}. ({3}/{4})</obj_desc_8>
+  <obj_completed>Objective '{0} ({1})' completed. {2}{3} earned!</obj_completed>
+  <obj_done>Objective completed!</obj_done>
+  <bm_structure>Structure</bm_structure>
+  <bm_administration>Administration</bm_administration>
+  <bm_rooms>Rooms</bm_rooms>
+  <bm_restaurant>Restaurant</bm_restaurant>
+  <bm_outdoors>Outdoors</bm_outdoors>
+  <bm_decoration>Decoration</bm_decoration>
+  <c_level>Level</c_level>
+  <l_level>level</l_level>
+  <promote>Promote</promote>
+  <fire>Fire</fire>
+  <total_workers>total workers</total_workers>
+  <money_per_day>money per day</money_per_day>
+  <workers_paid>Workers paid</workers_paid>
+  <hire_a_carrier>Hire a carrier</hire_a_carrier>
+  <c_carriers>Carriers</c_carriers>
+  <l_carriers>carriers</l_carriers>
+  <carrier>carrier</carrier>
+  <hire_a_receptionist>Hire a receptionist</hire_a_receptionist>
+  <c_receptionists>Receptionists</c_receptionists>
+  <l_receptionists>receptionists</l_receptionists>
+  <receptionist>receptionist</receptionist>
+  <hire_a_cook>Hire a cook</hire_a_cook>
+  <c_cooks>Cooks</c_cooks>
+  <l_cooks>cooks</l_cooks>
+  <cook>cook</cook>
+  <hire_a_cleaner>Hire a cleaner</hire_a_cleaner>
+  <c_cleaners>Cleaners</c_cleaners>
+  <l_cleaners>cleaners</l_cleaners>
+  <cleaner>cleaner</cleaner>
+  <supplies>Supplies</supplies>
+  <contract_with>Contract with</contract_with>
+  <manage_contract>Manage contract</manage_contract>
+  <food_boxes>Food boxes</food_boxes>
+  <drinks_boxes>Drinks boxes</drinks_boxes>
+  <buy_boxes>Buy boxes</buy_boxes>
+  <truck_text>Wait until truck has gone to buy again</truck_text>
+  <contract_info>Base price: {0}{1} (food), {2}{1} (drinks) \nDiscount: {3}{1} (food), {4}{1} (drinks)</contract_info>
+  <rooms>Rooms</rooms>
+  <create_room>Create new room</create_room>
+  <room_name>Room name</room_name>
+  <edit_area>Edit area</edit_area>
+  <remove_room>Remove room</remove_room>
+  <room_price_night>{0}{1}/night</room_price_night>
+  <room_needs_clean>Room needs a clean bed</room_needs_clean>
+  <room_occuppied>Room occuppied</room_occuppied>
+  <room_available>Room available</room_available>
+  <guests>Guests</guests>
+  <guest>Guest</guest>
+  <remove_guest>Remove guest</remove_guest>
+  <guest_nights>{0} nights, {1}{2}</guest_nights>
+  <guest_schedule>Schedule:\n\nBreakfast, {0}:00\nLunch, {1}:00\nDinner, {2}:00\n\nWill leave day {3} at {4}:00</guest_schedule>
+  <guest_from_room>From room {0}</guest_from_room>
+  <information>Information</information>
+  <remove_notifications>Remove notifications</remove_notifications>
+  <no_notifications>No new notifications</no_notifications>
+  <basic_info>{0} stars \n{1}/{2} available rooms</basic_info>
+  <options>Options</options>
+  <music>Music ({0}%)</music>
+  <sound>Sound ({0}%)</sound>
+  <money_icon>Money icon:</money_icon>
+  <change_language>Change language</change_language>
+  <controls>Controls</controls>
+  <controls_text>Move camera: W/A/S/D \nRotate camera: Q/E \nRotate object: R \nSave game: CTRL + S \nCancel/back: ESC \nChange speed: 1/2/3 or 5/Space \n\nPress shift when deleting walls to remove several walls in a row</controls_text>
+  <credits>Credits</credits>
+  <credits_text>Created by Avr Games\n\nGame programmed by David Gómez\nMusic and sounds by Evan Boyerman\nModels by Thomas Jungclaus and Emil Eldstål\nSprites by Brenda Mendez\nProduced by Juani Dorta\n\nIcons from Smashicons (Flaticon)</credits_text>
+  <exit_game>Exit game</exit_game>
+  <exit_confirmation>Are you sure you want to leave? Unsaved progress will be lost</exit_confirmation>
+  <exit_button>Leave</exit_button>
+  <drinks>Drinks: {0}/{1}</drinks>
+  <trash>Trash: {0}/{1}</trash>
+  <food>Food: {0}/{1}</food>
+  <meals>Meals: {0}/6</meals>
+  <sheets>Sheets: {0}/10</sheets>
+  <is_an_object>This is an object</is_an_object>
+  <no_rooms_available>No rooms available</no_rooms_available>  
+  <no_bed>Guest {0} left (no bed)</no_bed>
+  <no_toilet>Guest {0} left (no toilet)</no_toilet>
+  <no_shower>Guest {0} left (no shower)</no_shower>
+  <no_food>Guest {0} left (no food)</no_food>
+  <no_tables>Guest {0} left (no tables)</no_tables>
+  <no_drinks>Guest {0} left (no drinks)</no_drinks>
+  <no_bins>Guest {0} left (no bins)</no_bins>
+  <guest_left>Guest {0} left (+{1}{2})</guest_left>
+</getLang>
